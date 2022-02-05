@@ -20,8 +20,6 @@ rosidl_generate_interfaces(sh_common_interfaces
     "msg/CountdownState.msg"
     "msg/DeviceActivationChange.msg"
     "msg/Float32Arr.msg"
-    "msg/ModeChange.msg"
-    "msg/ModeChangeRequest.msg"
     "msg/Point.msg"
     "msg/StringArr.msg"
     "msg/WaveParticipantLocation.msg"
